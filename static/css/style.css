@@ -1,0 +1,15 @@
+/* CSS Reset */
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-control {
+    text-align: center;
+    margin: 10px 0px;
+}
